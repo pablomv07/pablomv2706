@@ -28,10 +28,4 @@ Me apasiona todo lo relacionado con la informática y estoy construyendo este pe
 
 ---
 
-## 📫 Cómo contactarme
-- ✉️ [Tu correo aquí]  
-- 💼 [LinkedIn aquí si tienes]  
-
----
-
 ✨ *Gracias por visitar mi perfil, pronto habrá más proyectos subidos... ¡esto es solo el comienzo!* ✨
